@@ -22,7 +22,7 @@ I'm a committed Software Engineer at Veritus, with a knack for tackling complex 
 
 ### 📈 GitHub Stats
 
-![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaazAsghar85&show_icons=true&theme=radical)
+![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaazAsghar85&show_icons=true&theme=radical&count_private=true)
 
 ### 📚 Projects:
 
