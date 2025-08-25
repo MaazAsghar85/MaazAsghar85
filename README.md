@@ -20,10 +20,6 @@ I'm a committed Software Engineer at Veritus, with a knack for tackling complex 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?&logo=microsoftsqlserver)
 
-### 📈 GitHub Stats
-
-![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaazAsghar85&show_icons=true&theme=radical&count_private=true)
-
 ### 📚 Projects:
 
 - **Smart Car:** Developed an obstacle-sensing car using Arduino, enhancing navigation through supersonic sensors.
