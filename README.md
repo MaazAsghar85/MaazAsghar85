@@ -1,8 +1,8 @@
 # Hello, I'm Maaz Asghar! 👋
 
-### 💻 Software Engineer | Data Enthusiast | Web Scraper | Web Developer | Mern Stack Developer
+### 💻 AI & Software Engineer | AI Agents | Humanoid Robot | Data Mining | Web Scraping | Browser Automation | Web Developer | MERN Stack
 
-I'm a committed Software Engineer at Veritus, with a knack for tackling complex data-driven challenges using modern technologies. My background spans data mining, web scraping, and creating innovative software solutions that streamline processes and enhance user experiences.
+AI & Software Engineer with a strong foundation in full-stack development, data structures, and cloud technologies. Skilled in building scalable, user-centric applications, I enjoy tackling complex problems and continuously learning to stay ahead in a rapidly evolving field. Whether it's optimizing code or leading a project, I'm driven by the opportunity to create impactful solutions that meet real-world needs.
 
 ---
 
@@ -23,15 +23,16 @@ I'm a committed Software Engineer at Veritus, with a knack for tackling complex 
 ### 📚 Projects:
 
 - **Smart Car:** Developed an obstacle-sensing car using Arduino, enhancing navigation through supersonic sensors.
-- **Face Recognition Door System:** Created a security solution using C++ to identify individuals and control door access.
-- **Echelon Object Detection App:** Spearheaded the development of a React-based app integrating Flask for real-time object detection.
+- **Face Recognition/Registration System:** Created using Python, Insightface, OpenCV to register a new face and then recognize when re-appears.
+- **Humanoid AI Assistant:** Built a 3D-printed humanoid AI assistant combining robot hardware and mobile app integration.
+- **RU-Novel Website:** Developed a MERN stack web app for publishing, reading, bookmarking, and rating novels.
 
 ### 📫 How to Reach Me:
 
 - **Email:** [maazasghar85@gmail.com](mailto:maazasghar85@gmail.com)
-- **LinkedIn:** [Maaz Asghar](https://www.linkedin.com/in/maaz-asghar-0538b5252/)
+- **LinkedIn:** [Maaz Asghar](https://www.linkedin.com/in/maaz-asghar/)
 
-### 🌍 Based in Muscat, Oman / Lahore, Pakistan
+### 🌍 Based in Muscat, Oman
 
 ---
 
